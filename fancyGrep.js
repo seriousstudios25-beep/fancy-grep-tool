@@ -23,7 +23,7 @@ if (!searchTerm || !filePath) {
 
     // Edge Case 3: Empty file handling
     if (fileContent.trim().length === 0) {
-       console.log(`[File '${filepath}]' is empty]`);
+       console.log(`[File '${filePath}]' is empty]`);
        console.log("Total lines scanned: 0 | Matches found: 0");
        process.exit(0);
     }
