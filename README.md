@@ -14,7 +14,7 @@ A custom command-line interface (CLI) tool built using Node.js as part of an ext
 It provides a contextual, line-numbered output preview and prints an overall execution summary banner.
 
 ### Syntax
-```bash
+bash
 node fancyGrep.js <searchTerm> <filePath>
 ## Section 2 — AI-Assisted Programming
 
